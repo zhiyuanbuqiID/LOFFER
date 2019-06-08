@@ -108,5 +108,4 @@ exclude:
   - README.md
   - CNAME
 
-
 excerpt_separator: ---
